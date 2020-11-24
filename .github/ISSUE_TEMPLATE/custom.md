@@ -7,13 +7,32 @@ assignees: ''
 
 ---
 
-* __Description__: describe the issue in plain terms.
-*	__Steps__: write the steps to recreate
-*	__OS__: Name and version of the operating system
-*	__Reading System__: Name and version of the reading system
-*	__Assistive Technology__: Name and version of the assistive technology (e.g. Jaws 2021)
-* __Browser__: Name and version of the web browser, if applicable
-* __Epubtest link__: a link to a specific test result from epubtest.org which illustrates this issue
-* __Video__: If there is a video demonstrating the issue, identify the file name in the RS shared folder
-* __Sample file__: If you have a sample file that demonstrates the issue, please identify or place in the shared folder.
-* __Case__:  If we have a case number from developer
+## Description
+Describe the issue in plain terms.
+
+## Steps
+Write the steps to recreate
+
+## OS
+Name and version of the operating system
+
+## Reading System
+Name and version of the reading system
+
+## Assistive Technology
+Name and version of the assistive technology (e.g. Jaws 2021)
+
+## Browser
+Name and version of the web browser, if applicable
+
+## Epubtest link
+A link to a specific test result from [epubtest.org](http://epubtest.org) which illustrates this issue
+
+## Video
+If there is a video demonstrating the issue, identify the file name in the RS shared folder
+
+## Sample file
+If you have a sample file that demonstrates the issue, please identify or place in the shared folder.
+
+## Case
+If we have a case number from developer
