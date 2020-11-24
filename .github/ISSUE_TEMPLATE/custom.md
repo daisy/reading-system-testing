@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Reading experience issue
 about: Report a reading experience issue
 title: ''
 labels: ''
