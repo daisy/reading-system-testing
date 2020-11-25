@@ -26,7 +26,7 @@ Name and version of the assistive technology (e.g. Jaws 2021)
 Name and version of the web browser, if applicable
 
 ## Epubtest link
-A link to a specific test result from [epubtest.org](http://epubtest.org) which illustrates this issue
+A link to a specific test result from epubtest.org which illustrates this issue
 
 ## Video
 If there is a video demonstrating the issue, identify the file name in the RS shared folder
