@@ -17,5 +17,7 @@ Narrator in scan mode is showing bullets instead of buttons. You can arrow down 
 
 The toolbar area should be available in scan mode and when arrowing down should expose the buttons. Ony when a person is inputting information, e.g., a search term or a bookmark note would you need to turn off scan mode.
 
+## Problems in main content - book content
+
 
 
