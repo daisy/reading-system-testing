@@ -1,6 +1,6 @@
 # Narrator problems with Thorium
 
-Last updated March 18, 2026
+Last updated March 19, 2026
 
 ## Assignment
 
@@ -13,9 +13,9 @@ George, Prashant and Sanjog have identified problems with Narrator using Thorium
 ##Toolbar issues
 In thorium, there is the Bookshelf view, and the book reading view. First we will focus on the book reading view. The interface is divided into a toolbar on the top portion of the screen, and the main content, which contains the book content.
 
-Narrator in scan mode is showing bullets instead of buttons. You can arrow down and hear bullet followed by the item. With scan mode off, you can tab to the items and it will say button.
+Narrator in scan mode is showing bullets instead of buttons. You can arrow down and hear bullet followed by the item. With scan mode off, you can tab to the items and it will say button. In scan mode, you can use single letter navigation and press "b" to go to the next button and activate it; the only problem is that it is saying bullet insted of button. I believe there are buttons for activation, and toggle buttons.
 
-The toolbar area should be available in scan mode and expose the buttons. Ony when a person is inputting information, e.g., a search term or a bookmark note would you need to turn off scan mode.
+The toolbar area should be available in scan mode and when arrowing down should expose the buttons. Ony when a person is inputting information, e.g., a search term or a bookmark note would you need to turn off scan mode.
 
 
 
